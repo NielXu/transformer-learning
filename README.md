@@ -19,6 +19,10 @@ This project is designed for educational purposes, providing a hands-on approach
 - Jupyter Notebook
 - Required libraries (install via `requirements.txt` if provided)
 
+# Data
+- [en-zh.txt](./data/en-zh.txt/): this data is from http://opus.nlpl.eu, check out the folder README for more info
+- [tiny_shakespeare.txt:](./data/tiny_shakespeare.txt): downloaded online
+
 # Acknowledgments
 Inspired by the original transformer paper: ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762).
 
